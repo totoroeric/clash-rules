@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,etransfar.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,taobao.com
+IP-CIDR,129.150.55.144/32
